@@ -10,7 +10,7 @@ Setup Instructions
 
 .. code-block:: bash
 
-    git clone <repository-url>
+    git clone https://github.com/varmashanthanu/inventory-backend.git
 
 2. Create `.env` file from `.env-sample` file and update as needed
 ------------------------------------------------------------------
